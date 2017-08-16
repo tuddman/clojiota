@@ -1,0 +1,8 @@
+[IRI]
+PORT = 14700
+UDP_RECEIVER_PORT = 14700
+NEIGHBORS = udp://my.favorite.com:15600
+IXI_DIR = ixi
+HEADLESS = true
+DEBUG = true
+DB_PATH = db
