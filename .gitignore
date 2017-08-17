@@ -12,3 +12,4 @@ pom.xml.asc
 *.swp
 mainnetdb/
 mainnet.log/
+ixi/
