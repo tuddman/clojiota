@@ -49,12 +49,6 @@ What is MORE fun, though, is spinning up a REPL to interact with IOTA
 ```bash
 $ lein repl
 > (clojiota.core/-main "-p" "14265")
-
-wait...
-
-> (clojiota.client/get-node-info)
-> (clojiota.client/get-neighbors-activity)
-> (clojiota.client/get-tips)
 > ...
 ```
 More to come.
