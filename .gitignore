@@ -13,3 +13,6 @@ pom.xml.asc
 mainnetdb/
 mainnet.log/
 ixi/
+*.log
+db/
+iri.ini
