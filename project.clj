@@ -3,10 +3,10 @@
   :url "https://github.com/tuddman/clojiota"
   :license {:name "MIT License"
             :url "https://github.com/tuddman/clojiota/blob/master/LICENSE"}
-  :dependencies [[org.clojure/clojure "1.9.0-beta3"]
+  :dependencies [[org.clojure/clojure "1.9.0"]
                  [org.clojure/tools.cli "0.3.5"]
                  [clj.qrgen "0.4.0"]
-                 [com.iota/iri "1.4.1.1"]
+                 [com.iota/iri "1.4.1.6"]
                  [com.taoensso/timbre "4.10.0"]
                  [crypto-random "1.2.0"]]
   
