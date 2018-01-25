@@ -16,3 +16,4 @@ ixi/
 *.log
 db/
 iri.ini
+neighbors.txt

@@ -1,4 +1,4 @@
-(defproject clojiota "0.1.1-SNAPSHOT"
+(defproject clojiota "0.1.3-SNAPSHOT"
   :description "A Clojure library built on top of the IOTA Reference Implementation. Adds useful enhancements."
   :url "https://github.com/tuddman/clojiota"
   :license {:name "MIT License"
@@ -11,4 +11,5 @@
                  [crypto-random "1.2.0"]]
   
   :min-lein-version "2.5.1"
+  :uberjar-name "clojiota-standalone.jar"
   :main clojiota.core)
